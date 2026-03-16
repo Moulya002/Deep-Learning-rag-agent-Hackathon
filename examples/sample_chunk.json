@@ -1,0 +1,11 @@
+{
+  "chunk_text": " What problem do LSTMs solve?",
+  "metadata": {
+    "topic": "LSTM",
+    "difficulty": "intermediate",
+    "type": "concept_explanation",
+    "source": "lstm.md",
+    "related_topics": ["RNN", "vanishing_gradient", "Seq2Seq"],
+    "is_bonus": false
+  }
+}
